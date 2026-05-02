@@ -37,3 +37,17 @@ Ikuti langkah berikut untuk menjalankan project ini di komputer kamu:
    ```bash
    git clone [https://github.com/username-kamu/nama-repo.git](https://github.com/username-kamu/nama-repo.git)
    cd nama-repo
+
+2. **Instal Dependencies**
+   composer install
+    npm install && npm run build
+
+3. **Konfigurasi Environment**
+   cp .env.example .env
+   php artisan key:generate
+
+4. **migrate & seed*
+   php artisan migrate --seed
+
+5. Serve jalankan secara lokal
+   php artisan serve
