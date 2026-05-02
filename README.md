@@ -1,4 +1,4 @@
-# 📦 Smart Inventory System
+# Warehouse Stock Management System
 
 [![Laravel Version](https://img.shields.io/badge/Laravel-11.x-red.svg)](https://laravel.com)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -7,13 +7,13 @@ Sistem manajemen inventaris modern yang dirancang untuk memudahkan pencatatan ba
 
 ---
 
-## 🖥️ Preview
+##  Preview
 ![Dashboard Preview](preview.png)
 *Tampilan Dashboard Utama Sistem Inventaris*
 
 ---
 
-## ✨ Fitur Unggulan
+##  Fitur Unggulan
 
 *   **Audit Trail (History)**: Mencatat setiap pergerakan stok lengkap dengan data user yang melakukan transaksi.
 *   **Stock Service**: Logika stok terpusat menggunakan *Database Transaction* untuk menjaga integritas data.
@@ -21,7 +21,7 @@ Sistem manajemen inventaris modern yang dirancang untuk memudahkan pencatatan ba
 *   **Role Management**: Pembagian akses antara Admin (Full Access) dan Staff (Limited).
 *   **Stock Alert**: Notifikasi visual untuk barang yang mencapai ambang batas stok minimum.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Framework**: Laravel 12
 - **Styling**: Tailwind CSS
@@ -29,7 +29,7 @@ Sistem manajemen inventaris modern yang dirancang untuk memudahkan pencatatan ba
 - **Icons**: Phosphor Icons
 - **Package**: Maatwebsite Excel (untuk laporan Excel) - Spatie Permission (untuk role) - Laravel Breeze ( Authentication ).
 
-## 🚀 Instalasi Lokal
+##  Instalasi Lokal
 
 Ikuti langkah berikut untuk menjalankan project ini di komputer kamu:
 
