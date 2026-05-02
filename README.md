@@ -39,15 +39,19 @@ Ikuti langkah berikut untuk menjalankan project ini di komputer kamu:
    cd nama-repo
 
 2. **Instal Dependencies**
+   ```bash
    composer install
-    npm install && npm run build
+   npm install && npm run build
 
-3. **Konfigurasi Environment**
+4. **Konfigurasi Environment**
+   ```bash
    cp .env.example .env
    php artisan key:generate
 
-4. **migrate & seed*
+6. **migrate & seed*
+   ```bash
    php artisan migrate --seed
 
-5. Serve jalankan secara lokal
+8. Serve jalankan secara lokal
+   ```bash
    php artisan serve
