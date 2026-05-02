@@ -1,6 +1,6 @@
 # Warehouse Stock Management System
 
-[![Laravel Version](https://img.shields.io/badge/Laravel-11.x-red.svg)](https://laravel.com)
+[![Laravel Version](https://img.shields.io/badge/Laravel-12.x-red.svg)](https://laravel.com)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 Sistem manajemen inventaris modern yang dirancang untuk memudahkan pencatatan barang masuk (**Stock In**), barang keluar (**Stock Out**), hingga penyesuaian stok (**Stock Opname**) secara real-time dan akurat.
