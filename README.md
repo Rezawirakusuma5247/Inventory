@@ -35,7 +35,7 @@ Ikuti langkah berikut untuk menjalankan project ini di komputer kamu:
 
 1. **Clone Repository**
    ```bash
-   git clone [https://github.com/username-kamu/nama-repo.git](https://github.com/username-kamu/nama-repo.git)
+   [git clone [https://github.com/username-kamu/nama-repo.git](https://github.com/username-kamu/nama-repo.git)](https://github.com/Rezawirakusuma5247/Inventory.git)
    cd nama-repo
 
 2. **Instal Dependencies**
